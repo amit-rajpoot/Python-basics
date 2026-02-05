@@ -1,0 +1,1 @@
+#NOTE-->(tuple slicing is just same as we do in list)
